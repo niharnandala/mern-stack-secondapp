@@ -1,0 +1,12 @@
+let x=10;
+let y=5;
+let f1="Nihar";
+let f2="Nandala";
+let f3="Netha";
+console.log(x+y);
+export default f2;
+export {x};
+export {y};
+export {f1};
+export {f2};
+export {f3};
